@@ -1,4 +1,4 @@
-# NUMPY
+# NumPy
 Introduction
 » Array
 » NumPy Array
